@@ -1,0 +1,16 @@
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\PresentationLayer\bin\Debug\DataLayer.pdb

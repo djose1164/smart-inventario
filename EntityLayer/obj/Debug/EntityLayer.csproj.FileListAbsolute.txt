@@ -1,0 +1,5 @@
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\SmartInventario\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
