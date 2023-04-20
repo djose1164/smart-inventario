@@ -12,5 +12,7 @@ namespace EntityLayer
         public string Description { set; get; }
         public int Price { set; get; }
         public int Id { set; get; }
+        public int Stocks { set; get; }
+        public int SoldQuantity { set; get; }
     }
 }

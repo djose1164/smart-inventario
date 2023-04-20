@@ -90,6 +90,29 @@ namespace DataLayer
             return user;
         }
 
+        public bool update(E_User user)
+        {
+            bool success = false;
+
+            var cmd = new SqlCommand("update_user", conn);
+            cmd.Parameters.Add("@name", System.Data.SqlDbType.VarChar).Value = user.Name;
+            cmd.Parameters.Add("@last_name", System.Data.SqlDbType.VarChar).Value = user.LastName;
+            cmd.Parameters.Add("@email", System.Data.SqlDbType.VarChar).Value = user.Email;
+            cmd.CommandType = System.Data.CommandType.StoredProcedure;
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                success = true;
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+            return success;
+        }
+
         private static string uri = ConfigurationManager.ConnectionStrings["connSql"].ConnectionString;
         private SqlConnection conn = new SqlConnection(uri);
     }

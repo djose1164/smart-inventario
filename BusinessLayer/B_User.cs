@@ -25,6 +25,11 @@ namespace BusinessLayer
             return d_user.getByEmail(user.Email);
         }
 
+        public bool updateUser(E_User user)
+        {
+            return d_user.update(user);
+        }
+
         private D_User d_user = new D_User();
     }
 }
